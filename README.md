@@ -18,6 +18,11 @@ Visual Studio'ya C++ yüklü olması yeterlidir.
 
 Projeyi Çalıştırdıktan sonra oyuncu sayısını girerek oyuna başlayabilirsiniz..
 
+![image](https://github.com/Poeron/TombalaOyunu/assets/94721967/7fefa3d9-adf7-424e-bf5c-23f98be80c93)
+
+![image](https://github.com/Poeron/TombalaOyunu/assets/94721967/f6323f01-208d-408c-a978-5d689087579b)
+
+
 ## Lisans
 
 Bu proje [MIT License] altında lisanslanmıştır. Detaylı bilgi için [LICENSE] dosyasını inceleyin.
