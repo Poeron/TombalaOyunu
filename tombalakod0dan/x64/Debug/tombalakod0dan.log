@@ -1,0 +1,4 @@
+﻿  RonayÖktem_21390008003_Proje.cpp
+C:\Users\Ronay\OneDrive\Masaüstü\tombalakod0dan\tombalakod0dan\RonayÖktem_21390008003_Proje.cpp(31,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Ronay\OneDrive\Masaüstü\tombalakod0dan\tombalakod0dan\RonayÖktem_21390008003_Proje.cpp(211): warning C4715: 'TorbaylaKarsilastir': tüm denetim yolları değer döndürmez
+  tombalakod0dan.vcxproj -> C:\Users\Ronay\OneDrive\Masaüstü\tombalakod0dan\x64\Debug\tombalakod0dan.exe
